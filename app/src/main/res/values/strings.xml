@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">YouFirstAssignment</string>
+    <string name="tvDate">Date:</string>
+    <string name="tv_points_earned">Points Earned:</string>
+    <string name="tv_points_redeemed">Points Redeemed:</string>
+    <string name="btn_save">Save</string>
+    <string name="tv_start_date">Start Date:</string>
+    <string name="tv_end_date">End Date:</string>
+    <string name="tv_total_earned">Total Earned:</string>
+    <string name="tv_total_redeemed">Total Redeemed:</string>
+    <string name="show_details">Show Details</string>
+    <string name="sl_no">SL No</string>
+    <string name="date">Date</string>
+    <string name="points_earned">Points Earned</string>
+    <string name="points_redeemed">Points Redeemed</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_earned_points">Enter Earned points</string>
+    <string name="enter_redeemed_points">Enter Redeemed points</string>
+</resources>
